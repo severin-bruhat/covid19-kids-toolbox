@@ -28,6 +28,9 @@
 * [Spellzone](https://www.spellzone.com/)
 * [The School Run](https://www.theschoolrun.com/)
 * [CBeebies (BBC)](https://global.cbeebies.com/)
+* [Scottish Book Trust](https://www.scottishbooktrust.com/learning-resources)
+* [Longride Primary School - Pupil Resources](https://longridgeprimary.westlothian.org.uk/article/14937/Pupil-Resources?fbclid=IwAR12vf2KAGj9BvHO958Hjg0LGhAs9pKEXbdqm88ET6TlGUnqD7I73BeLJa0)
+* [Oxford Owl - ebook library](https://www.oxfordowl.co.uk/for-home/find-a-book/library-page/?fbclid=IwAR3a_o3LSlF4vv5O52Exyse87wmv0-DDApKDZk0tFWReHyo0jsIH3Rwza0w)
 
 ## YouTube Channels
 
@@ -58,6 +61,10 @@
 ## Other
 
 * [Virtual Museum Tours](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours)
+
+## List of education companies offering free subscriptions
+
+* [Blog - Kids activities](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/?fbclid=IwAR3A98uYFp0vOXIKZ8rcm18dF3ywW1AfqnF80ek6Fbv8Y3zzrRB7oRtSL-k)
 
 ## Suggested routine
 
