@@ -24,12 +24,9 @@ First of all I would like to share this message from a parent (psychiatrist) fro
 > If I can leave you with one thing, it’s this: at the end of all of this, your kids’ mental health will be more important than their academic skills.  And how they felt during this time will stay with them long after the memory of what they did during those 4 weeks is long gone.  So keep that in mind, every single day.
 
 ## Content
-* [Talk about Covid]()
-* [Workout]()
-* []()
-* []()
-* []()
-* []()
+* [Talk about Covid](./Talk-about-Covid)
+* [Workout](./Workout)
+* [School resources](./School-resources)
 * [French resources](./French-resources)
 
-**Thank you all the parents and colleagues who shared all these resources with me.**
+**Thank you all the parents, colleagues and school employees who shared all these resources with me.**
