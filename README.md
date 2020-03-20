@@ -1,7 +1,7 @@
 # Codid-19 Kids Toolkit
 
 ## What is this about?
-As any prent you might be wondering how you are gonna teach your kids while you are working.
+As many parents, you might be wondering how you are gonna teach your kids while you are working.
 
 Here is a list of different tools and resources you can use. I haven't build that list myslef, the majority of this stuff comes from different parents I have been talking with. My contribution is to share this with you. Of course if you want to collaborate, don't hesitate to contact me on [Twitter](https://twitter.com/severin_bruhat) or by [email](mailto:sbruhat@gmail.com) and make suggestions.
 
