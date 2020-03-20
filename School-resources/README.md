@@ -19,7 +19,7 @@
 * [Storyline](https://www.storylineonline.net/)
 * [Highlights Kids](https://www.highlightskids.com/)
 * [National Geographic Kids](https://kids.nationalgeographic.com/)
-* [Cool mqth 4 kids](https://www.coolmath4kids.com/)
+* [Cool math 4 kids](https://www.coolmath4kids.com/)
 * [Unite for literacy](https://www.uniteforliteracy.com/)
 * [Science Kids](http://www.sciencekids.co.nz/)
 * [Dr Seuss](https://www.seussville.com/)
@@ -70,8 +70,8 @@
 
 A suggested routine for your days: 
  
-* 0900 -1015: Literacy activity/activities
-* 1015 – 1045: Break / story/ snack
+* 0900 - 1015: Literacy activity/activities
+* 1015 – 1045: Break/story/snack
 * 1045 – 1200: Numeracy & Maths activity/activities
 * 1200 – 1300: Lunch
 * 1330 – 1515: 2 activities from other curricular areas (PE/Science/Art/Music/Drama/RE/Technologies/Modern Languages/Health & Wellbeing/Social Studies)
