@@ -31,6 +31,14 @@
 * [Scottish Book Trust](https://www.scottishbooktrust.com/learning-resources)
 * [Longride Primary School - Pupil Resources](https://longridgeprimary.westlothian.org.uk/article/14937/Pupil-Resources?fbclid=IwAR12vf2KAGj9BvHO958Hjg0LGhAs9pKEXbdqm88ET6TlGUnqD7I73BeLJa0)
 * [Oxford Owl - ebook library](https://www.oxfordowl.co.uk/for-home/find-a-book/library-page/?fbclid=IwAR3a_o3LSlF4vv5O52Exyse87wmv0-DDApKDZk0tFWReHyo0jsIH3Rwza0w)
+* [Twinkl Home Learning Hub](https://www.twinkl.co.uk/home-learning-hub)
+* [Doorway Online](https://www.doorwayonline.org.uk/)
+* [BBC Newsround](https://www.bbc.co.uk/newsround)
+* [Nat Geo Kids](https://www.natgeokids.com/uk/)
+* [The Kid Should See This](https://thekidshouldseethis.com/)
+* [DK Find Out](https://www.dkfindout.com/uk/)
+* [Topmarks](https://www.topmarks.co.uk/)
+* [Learn English Kids (British Council)](https://learnenglishkids.britishcouncil.org/resources)
 
 ## YouTube Channels
 
@@ -56,6 +64,7 @@
 * [MathGameTime](http://www.mathgametime.com/)
 * [SwitchZoo](https://www.switchzoo.com/)
 * [Turtle Diary](https://www.turtlediary.com/)
+* [World Geography Games](https://world-geography-games.com/)
 
 
 ## Other
