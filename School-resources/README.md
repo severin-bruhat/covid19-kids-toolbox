@@ -39,6 +39,8 @@
 * [DK Find Out](https://www.dkfindout.com/uk/)
 * [Topmarks](https://www.topmarks.co.uk/)
 * [Learn English Kids (British Council)](https://learnenglishkids.britishcouncil.org/resources)
+* [myON ReadON](https://readon.myon.co.uk/)
+* [BP Educational Service](https://bpes.bp.com/resources/list)
 
 ## YouTube Channels
 
@@ -65,11 +67,13 @@
 * [SwitchZoo](https://www.switchzoo.com/)
 * [Turtle Diary](https://www.turtlediary.com/)
 * [World Geography Games](https://world-geography-games.com/)
+* [Phonics Bloom](https://www.phonicsbloom.com/)
 
 
 ## Other
 
 * [Virtual Museum Tours](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours)
+* [Fischy music](https://www.fischytunes.com/)
 
 ## List of education companies offering free subscriptions
 
